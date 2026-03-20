@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/source/main.cc.o CMakeFiles/main.dir/student-odb.cxx.o -o main  -lodb-mysql -lodb -lodb-boost -lgflags 

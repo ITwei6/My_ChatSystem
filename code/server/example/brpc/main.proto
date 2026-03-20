@@ -1,0 +1,20 @@
+
+
+syntax="proto3";//protobuf的版本
+
+package example;//生成一个名命空间，将生成的类都放入该空间中
+
+option cc_generic_services=true;
+
+//定义rpc中请求的格式
+message EchoRequest{
+    string message=1;
+}
+//定义rpc中响应的格式
+message EchoResponse{
+    string message=1;
+}
+//定义rpc远程调用的方法
+service EchoService{
+    rpc echo(EchoRequest) returns (EchoResponse);
+}

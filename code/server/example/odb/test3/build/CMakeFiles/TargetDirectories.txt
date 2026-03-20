@@ -1,0 +1,7 @@
+/home/tao/study/chat_system-main/example/odb/test3/build/CMakeFiles/main.dir
+/home/tao/study/chat_system-main/example/odb/test3/build/CMakeFiles/edit_cache.dir
+/home/tao/study/chat_system-main/example/odb/test3/build/CMakeFiles/rebuild_cache.dir
+/home/tao/study/chat_system-main/example/odb/test3/build/CMakeFiles/list_install_components.dir
+/home/tao/study/chat_system-main/example/odb/test3/build/CMakeFiles/install.dir
+/home/tao/study/chat_system-main/example/odb/test3/build/CMakeFiles/install/local.dir
+/home/tao/study/chat_system-main/example/odb/test3/build/CMakeFiles/install/strip.dir

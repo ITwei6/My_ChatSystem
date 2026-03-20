@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a3842c74deba3db5bdd24b58c43888ce student-odb.cxx
